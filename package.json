@@ -20,7 +20,7 @@
   "homepage": "https://github.com/cgodoy720/space-battle-cli-game#readme",
   "dependencies": {
     "chalk": "^2.4.2",
-    "chalk-animation": "^1.4.0",
+    "chalk-animation": "^2.0.3",
     "cli-spinner": "^0.2.10",
     "figlet": "^1.7.0",
     "gradient-string": "^2.0.2",
